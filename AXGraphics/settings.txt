@@ -1,0 +1,15 @@
+[system]
+renderer=directx
+[resources]
+indexVideoMemory=8
+vertexVideoMemory=32
+[window]
+fullscreen=0
+windowedHeight=600
+windowedWidth=800
+[renderer]
+dxDeviceType=hal
+screenshotIndex=0
+[logger]
+logApplicationMessages=1
+logSystemMessages=1
